@@ -56,7 +56,7 @@ const Contact = () => {
           from_name: form.name,
           to_name: 'Aniket Subudhi',
           from_email: form.email,
-          to_email: 'aniketsubudhi00@gmail.com,khanbasir5555@gmail.com',
+          to_email: 'aniketsubudhi00@gmail.com,khanbasir5555@gmail.com,ankit245202@gmail.com',
           message: form.message,
         },
         process.env.NEXT_PUBLIC_EMAILJS_PUBLIC_KEY!,
